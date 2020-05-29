@@ -13,3 +13,11 @@ Se recomienda crear una organización que sea la propitaria del repositorio prin
 
 # Creación de Fork
 Para crear un fork debes iniciar sesión en GitHub y luego ingresar a la landing page del proyecto del que quieras sacar tu Fork.
+
+
+# Como trabajar con 2 o más remotos
+Listar remotos git remote -v
+
+Agregar remotos git remote add trabajoEquipo git@github.com:edteamlat/trabajoEquipo.git
+
+Eliminar remotos git remote remove trabajoEquipo
