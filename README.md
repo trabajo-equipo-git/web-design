@@ -18,6 +18,6 @@ Para crear un fork debes iniciar sesión en GitHub y luego ingresar a la landing
 # Como trabajar con 2 o más remotos
 Listar remotos git remote -v
 
-Agregar remotos git remote add trabajoEquipo git@github.com:edteamlat/trabajoEquipo.git
+Agregar remotos git remote add trabajoEquipo git@github.com:hviveros/trabajoEquipo.git
 
 Eliminar remotos git remote remove trabajoEquipo
